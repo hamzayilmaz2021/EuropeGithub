@@ -1,0 +1,7 @@
+d:
+
+D:\>cd SDET
+
+D:\SDET>CD GIT GITHUB Projects\EuropeGithub
+
+D:\SDET\GIT GITHUB Projects\EuropeGithub>
