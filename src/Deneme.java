@@ -9,17 +9,18 @@ public class Deneme {
 		
 		System.out.println("git add . ");
 		System.out.println("git commit -m "v005");"
-				+ "
+		System.out.println("git push");	
+		
 		System.out.println("git log --> commit list");
 		System.out.println("git status");
-		System.out.println("git push");
 		
 		System.out.println("git fetch");
 		System.out.println("git merge");
 		System.out.println("git pull");// v006
+		
 		System.out.println("git branch");
-		System.out.println("git branch hamza");
-		System.out.println("git merge hamza");
-		System.out.println("git checkout hamza");// v007
+		System.out.println("git branch master");
+		System.out.println("git merge master");
+		System.out.println("git checkout master");// v008
 	}
 }
